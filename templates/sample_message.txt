@@ -1,0 +1,8 @@
+<p><strong>Hello ${CUSTOMER_NAME},</strong></p>
+<p>Thanks for ordering from <span style="color: #ff6600;margin: auto;width: 50%;padding: 10px"><strong>Sample Ecommerce Store.</strong></span></p> 
+<p>Your order has been generated and delivery will be initiated upon payment confirmation.</p> 
+<p>Please quote the order reference no <span style="color: #008000;"><strong>${ORDER_NUMBER}</strong></span> in all communications.</p>
+
+<p>Regards.<br>
+Store Manager<br>
+Ecommerce Store</p>
